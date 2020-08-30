@@ -24,6 +24,8 @@ This hardly sounds like the desired sound. To create a more natural sound, the p
 
 ### Timbral Tremolo
 
+The Timbral Tremolo extends the Spectral Freeze effect by updating the frozen frame periodically. It is further enhanced using envelope following and compression. Sonically this creates a sound like a tremolo, where changes in amplitude are periodic. But with the Timbral Tremolo the changes in amplitude depend on the frequencies of the frozen frame.
+
 #### Envelope Following
 
 #### Basilar Compression
